@@ -1,2 +1,4 @@
 This is second file only for first branch.
 changed via git bash.
+This is second file only for master.
+
